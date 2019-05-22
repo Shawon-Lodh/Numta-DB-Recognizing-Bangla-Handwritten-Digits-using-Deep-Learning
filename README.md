@@ -1,6 +1,6 @@
-# Numta-DB
-# Digit recognition competition arranged by Bengali.AI community
-1.Bangla handwritten digits recognition with deep convolutional neural network (CNN) using Keras library
+# Numta DB: Recognizing Bangla Handwritten Digits using Deep Learning
+
+1.Bangla handwritten digits recognition with deep convolutional neural network (CNN)
 
 2.Handling data augmentation to create transformation invariant model
 
